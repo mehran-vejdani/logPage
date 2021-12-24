@@ -1,0 +1,15 @@
+.bg-infoo {
+    background-color: #00ACC1;
+}
+
+.contain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40rem;
+}
+
+.size {
+    width: 400px;
+    padding: 30px;
+}

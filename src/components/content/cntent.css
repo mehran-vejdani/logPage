@@ -1,0 +1,8 @@
+.content-container {
+    background-image: url("../images/react.jpg");
+    height: 360px;
+}
+
+.padding {
+    margin-right: 20%;
+}

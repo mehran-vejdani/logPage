@@ -1,0 +1,30 @@
+.dashboard {
+    display: flex;
+    margin: 10px;
+}
+
+.profile {
+    border: 2px solid gray;
+    height: 400px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.information {
+    border: 2px solid gray;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.head {
+    border-bottom: 1px solid gray;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
